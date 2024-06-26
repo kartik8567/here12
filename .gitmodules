@@ -1,0 +1,3 @@
+[submodule "third-anniversary"]
+    path = third-anniversary
+    url = https://github.com/username/third-anniversary.git
